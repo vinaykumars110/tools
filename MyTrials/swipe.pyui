@@ -1,0 +1,142 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{287, 480}, {100, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "next_button_tapped",
+          "frame" : "{{114, 184}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Next",
+          "class" : "Button",
+          "font_bold" : true,
+          "uuid" : "CD110A2B-B7B9-4C04-B709-D32BDD160979",
+          "background_color" : "RGBA(0.007491,0.007491,0.007491,1.000000)",
+          "border_color" : "RGBA(0.039326,0.039326,0.039326,1.000000)",
+          "font_size" : 30,
+          "name" : "Next"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{63, 104}, {247, 219}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{104, 150}, {100, 100}}",
+          "class" : "ImageView",
+          "background_color" : "RGBA(0.028090,0.028090,0.028090,1.000000)",
+          "uuid" : "76CC9C71-78BE-44F0-84F5-8D254A8CA418",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "name" : "pic",
+          "image_name" : "iob:image_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 480}, {100, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "reveal_button_tapped",
+          "frame" : "{{114, 184}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Reveal",
+          "uuid" : "CD110A2B-B7B9-4C04-B709-D32BDD160979",
+          "font_bold" : true,
+          "class" : "Button",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_color" : "RGBA(0.044944,0.044944,0.044944,1.000000)",
+          "name" : "Reveal",
+          "font_size" : 30
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 480}, {100, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "image_button_tapped",
+          "frame" : "{{114, 184}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Image",
+          "uuid" : "CD110A2B-B7B9-4C04-B709-D32BDD160979",
+          "font_bold" : true,
+          "class" : "Button",
+          "background_color" : "RGBA(0.056180,0.056180,0.056180,1.000000)",
+          "border_color" : "RGBA(0.061798,0.061798,0.061798,1.000000)",
+          "name" : "Image",
+          "font_size" : 30
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{21, 13}, {331, 70}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "2326BF2A-B3E3-443C-BF5A-754A6816A470",
+          "background_color" : "RGBA(0.018727,0.018727,0.018727,1.000000)",
+          "frame" : "{{79, 184}, {150, 32}}",
+          "border_color" : "RGBA(0.022472,0.022472,0.022472,1.000000)",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "alignment" : "center",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "text" : "word",
+          "font_name" : "AnonymousPro-Italic",
+          "class" : "Label",
+          "name" : "word",
+          "font_size" : 25
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{29, 352}, {323, 97}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "7834FE8E-2EA4-4029-A0ED-ED02CBC319C6",
+          "background_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{119, 280}, {150, 32}}",
+          "border_color" : "RGBA(0.029963,0.029963,0.029963,1.000000)",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "alignment" : "center",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "text" : "Label",
+          "font_name" : "AmericanTypewriter-Bold",
+          "class" : "Label",
+          "name" : "label",
+          "font_size" : 25
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {387, 592}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "name" : "",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)"
+    },
+    "selected" : false
+  }
+]

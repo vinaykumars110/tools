@@ -1,0 +1,30 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{70, 70}, {100, 100}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{70, 70}, {100, 100}}",
+          "class" : "View",
+          "name" : "view1",
+          "uuid" : "06BC911E-B8E4-47FA-874E-A85481AD839A"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

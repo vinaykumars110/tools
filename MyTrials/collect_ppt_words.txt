@@ -1,0 +1,5054 @@
+word_start
+word_begin
+abate (verb)
+word_end
+media_begin
+../media/image1.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+Decrease in intensity.
+slide2_text_end
+word_finish
+word_start
+word_begin
+aberrant (adj)
+word_end
+media_begin
+../media/image2.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+abnormal or unusual.noun: aberration
+slide2_text_end
+word_finish
+word_start
+word_begin
+abeyance (noun)
+word_end
+media_begin
+../media/image3.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+temporary suspension or disuse.
+slide2_text_end
+word_finish
+word_start
+word_begin
+aboriginal (adj)
+word_end
+media_begin
+../media/image4.jpeg
+media_end
+slide1_text_begin
+The aboriginals of the remote island
+slide1_text_end
+slide2_text_begin
+having existed at a place from the beginning
+slide2_text_end
+word_finish
+word_start
+word_begin
+abreast (adv)
+word_end
+media_begin
+../media/image5.jpeg
+media_end
+slide1_text_begin
+Riding abreast of each other
+slide1_text_end
+slide2_text_begin
+side-by-side
+slide2_text_end
+word_finish
+word_start
+word_begin
+abscond (verb)
+word_end
+media_begin
+../media/image6.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+leave secretly to escape from something; run away with something.
+slide2_text_end
+word_finish
+word_start
+word_begin
+abstemious (adj)
+word_end
+media_begin
+../media/image7.jpeg
+media_end
+slide1_text_begin
+ab – awaytemetum – alcohol or drink
+slide1_text_end
+slide2_text_begin
+not very much into food or drink.
+slide2_text_end
+word_finish
+word_start
+word_begin
+admonish (verb)
+word_end
+media_begin
+../media/image8.jpeg
+media_end
+slide1_text_begin
+Mother admonishing a child
+slide1_text_end
+slide2_text_begin
+reprimand or warn someone firmly.
+slide2_text_end
+word_finish
+word_start
+word_begin
+aesthetic (adj)
+word_end
+media_begin
+../media/image9.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+characterized by beauty ; appreciated through senses.
+slide2_text_end
+word_finish
+word_start
+word_begin
+alacrity (noun)
+word_end
+media_begin
+../media/image10.jpeg
+media_end
+slide1_text_begin
+kids showing alacrity to answer the questions
+slide1_text_end
+slide2_text_begin
+cheerful readiness and eagerness.
+slide2_text_end
+word_finish
+word_start
+word_begin
+ambivalent (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+ambi – bothvale - feelings
+slide1_text_end
+slide2_text_begin
+having mixed feelings about something
+slide2_text_end
+word_finish
+word_start
+word_begin
+ameliorate (verb)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+melio - better
+slide1_text_end
+slide2_text_begin
+to make better
+slide2_text_end
+word_finish
+word_start
+word_begin
+anachronism (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+ana – againstchrono - time
+slide1_text_end
+slide2_text_begin
+not belonging to present period. 
+slide2_text_end
+word_finish
+word_start
+word_begin
+anarchy (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+an – withoutarchi – ruleeg: the country is threatened with anarchy
+slide1_text_end
+slide2_text_begin
+absence of government or leadership
+slide2_text_end
+word_finish
+word_start
+word_begin
+antipathy (noun)
+word_end
+media_begin
+../media/image11.jpeg
+media_end
+slide1_text_begin
+anti – againstpathos – feelingMy antipathy for my job..
+slide1_text_end
+slide2_text_begin
+strong feeling of dislike or aversion
+slide2_text_end
+word_finish
+word_start
+word_begin
+apathy (noun)
+word_end
+media_begin
+../media/image12.jpeg
+media_end
+slide1_text_begin
+a- withoutpathos - feeling
+slide1_text_end
+slide2_text_begin
+lack of interest or concern for something.
+slide2_text_end
+word_finish
+word_start
+word_begin
+appease (verb)
+word_end
+media_begin
+../media/image13.jpeg
+media_end
+slide1_text_begin
+appease your partner
+slide1_text_end
+slide2_text_begin
+please someone by satisfying their demand or feeling.
+slide2_text_end
+word_finish
+word_start
+word_begin
+apprise (verb)
+word_end
+media_begin
+../media/image14.jpeg
+media_end
+slide1_text_begin
+HR apprised employees about company performance 
+slide1_text_end
+slide2_text_begin
+inform somebody of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+apprehensive (adj)
+word_end
+media_begin
+../media/image15.jpeg
+media_end
+slide1_text_begin
+I’m a little apprehensive about quitting my job.
+slide1_text_end
+slide2_text_begin
+fearful that something bad or unpleasant will happen.
+slide2_text_end
+word_finish
+word_start
+word_begin
+approbation (noun)
+word_end
+media_begin
+../media/image16.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+official approval or praise
+slide2_text_end
+word_finish
+word_start
+word_begin
+arduous (adj)
+word_end
+media_begin
+../media/image17.jpeg
+media_end
+slide1_text_begin
+an arduous journey
+slide1_text_end
+slide2_text_begin
+requiring a lot of effort; difficult and tiring
+slide2_text_end
+word_finish
+word_start
+word_begin
+ascetic (adj/noun)
+word_end
+media_begin
+../media/image18.jpeg
+media_end
+slide1_text_begin
+ascet – monkascetic lifestyle – live like a monk
+slide1_text_end
+slide2_text_begin
+indulging in extreme self-discipline and self-control
+slide2_text_end
+word_finish
+word_start
+word_begin
+assiduous (adj)
+word_end
+media_begin
+../media/image19.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+showing great care and commitment
+slide2_text_end
+word_finish
+word_start
+word_begin
+assuage (verb)
+word_end
+media_begin
+../media/image20.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+provide relief from an unpleasant feeling
+slide2_text_end
+word_finish
+word_start
+word_begin
+audacious (adj)
+word_end
+media_begin
+../media/image21.jpeg
+media_end
+slide1_text_begin
+auda – bold/dare
+slide1_text_end
+slide2_text_begin
+showing willingness to take surprisingly bold risks
+slide2_text_end
+word_finish
+word_start
+word_begin
+austerity (noun)
+word_end
+media_begin
+../media/image22.jpeg
+media_end
+slide1_text_begin
+economic austerity 
+slide1_text_end
+slide2_text_begin
+tech :- difficult economic conditions created by govt. measures.usage :- simplicity in appearance and strict in attitude
+slide2_text_end
+word_finish
+word_start
+word_begin
+aver (verb)
+word_end
+media_begin
+../media/image23.jpeg
+media_end
+slide1_text_begin
+Arsenal fans averred the manger to leave through “wenger out” banners.
+slide1_text_end
+slide2_text_begin
+state or assert something with a serious tone.
+slide2_text_end
+word_finish
+word_start
+word_begin
+banal (adj)
+word_end
+media_begin
+../media/image24.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+boring and unoriginal
+slide2_text_end
+word_finish
+word_start
+word_begin
+belie (verb)
+word_end
+media_begin
+../media/image25.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+fail to give true impression of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+bellicose (adj)
+word_end
+media_begin
+../media/image26.jpeg
+media_end
+slide1_text_begin
+bel – related to war(eg: rebel)bellicose nature of the boy
+slide1_text_end
+slide2_text_begin
+demonstrating aggression and eagerness to fight
+slide2_text_end
+word_finish
+word_start
+word_begin
+bombastic (adj)
+word_end
+media_begin
+../media/image27.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+high-sounding
+slide2_text_end
+word_finish
+word_start
+word_begin
+boorish (adj)
+word_end
+media_begin
+../media/image28.jpeg
+media_end
+slide1_text_begin
+boorish behavior
+slide1_text_end
+slide2_text_begin
+rough and bad-mannered
+slide2_text_end
+word_finish
+word_start
+word_begin
+botch (verb)
+word_end
+media_begin
+../media/image29.jpeg
+media_end
+slide1_text_begin
+How not to botch a job interview?
+slide1_text_end
+slide2_text_begin
+do a bad job at something
+slide2_text_end
+word_finish
+word_start
+word_begin
+burgeon (verb)
+word_end
+media_begin
+../media/image30.jpeg
+media_end
+slide1_text_begin
+adj : burgeoning population
+slide1_text_end
+slide2_text_begin
+to grow or increase rapidly
+slide2_text_end
+word_finish
+word_start
+word_begin
+burnish (verb)
+word_end
+media_begin
+../media/image31.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+polish something to make more impressive
+slide2_text_end
+word_finish
+word_start
+word_begin
+buttress (verb)
+word_end
+media_begin
+../media/image32.jpeg
+media_end
+slide1_text_begin
+buttress(n) is a solid supportbutt – rest 
+slide1_text_end
+slide2_text_begin
+to reinforce or strengthen somethoing
+slide2_text_end
+word_finish
+word_start
+word_begin
+capricious (adj)
+word_end
+media_begin
+../media/image33.jpeg
+media_end
+slide1_text_begin
+capricious weather
+slide1_text_end
+slide2_text_begin
+characterized by unpredictable changes to mood or behavior
+slide2_text_end
+word_finish
+word_start
+word_begin
+castigate (verb)
+word_end
+media_begin
+../media/image34.jpeg
+media_end
+slide1_text_begin
+boss castigated his employee for poor performance
+slide1_text_end
+slide2_text_begin
+reprimand harshly
+slide2_text_end
+word_finish
+word_start
+word_begin
+caustic (adj)
+word_end
+media_begin
+../media/image35.png
+media_end
+slide1_text_begin
+players made caustic comments on the referee
+slide1_text_end
+slide2_text_begin
+able to produce burning effect
+slide2_text_end
+word_finish
+word_start
+word_begin
+chicanery (noun)
+word_end
+media_begin
+../media/image36.jpeg
+media_end
+slide1_text_begin
+Root: chican – to deceive or criticize
+slide1_text_end
+slide2_text_begin
+to use tricks to deceive someone.
+slide2_text_end
+word_finish
+word_start
+word_begin
+coagulate (verb)
+word_end
+media_begin
+../media/image37.jpeg
+media_end
+slide1_text_begin
+When you get a cut, the blood flowing from the wound will coagulate
+slide1_text_end
+slide2_text_begin
+to change from liquid to thickened state
+slide2_text_end
+word_finish
+word_start
+word_begin
+coda (noun)
+word_end
+media_begin
+../media/image38.gif
+media_end
+slide1_text_begin
+coda(Italian) = tailHis new novel is kind of coda to his previous ones.
+slide1_text_end
+slide2_text_begin
+concluding part of something (technically music)
+slide2_text_end
+word_finish
+word_start
+word_begin
+cogent (adj)
+word_end
+media_begin
+../media/image39.jpeg
+media_end
+slide1_text_begin
+cogent argument
+slide1_text_end
+slide2_text_begin
+convincing and compelling(often used for arguments).
+slide2_text_end
+word_finish
+word_start
+word_begin
+commensurate (verb)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+com- togethermensurat – to measure
+slide1_text_end
+slide2_text_begin
+in proportion.eg: salary is commensurate with experience. 
+slide2_text_end
+word_finish
+word_start
+word_begin
+compendium (noun)
+word_end
+media_begin
+../media/image40.jpeg
+media_end
+slide1_text_begin
+compendium of bookscom – togetherpendere – weighweigh together ?? 
+slide1_text_end
+slide2_text_begin
+collection of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+complaisant (adj)
+word_end
+media_begin
+../media/image41.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+willingness to please others.
+slide2_text_end
+word_finish
+word_start
+word_begin
+conciliatory (adj)
+word_end
+media_begin
+../media/image42.png
+media_end
+slide1_text_begin
+Boss gave a conciliatory gesture by resolving fight between employees.
+slide1_text_end
+slide2_text_begin
+intended or likely to make things better.
+slide2_text_end
+word_finish
+word_start
+word_begin
+condone (verb)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+eg: some teachers condone chewing gum and some don’t;
+slide1_text_end
+slide2_text_begin
+accept or approve of offensive behavior.
+slide2_text_end
+word_finish
+word_start
+word_begin
+confound (verb)
+word_end
+media_begin
+../media/image43.jpeg
+media_end
+slide1_text_begin
+a confounded person here
+slide1_text_end
+slide2_text_begin
+be confusing;
+slide2_text_end
+word_finish
+word_start
+word_begin
+connoisseur (noun)
+word_end
+media_begin
+../media/image44.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+someone who has fine taste or appreciation for something.
+slide2_text_end
+word_finish
+word_start
+word_begin
+contention (noun)
+word_end
+media_begin
+../media/image45.jpeg
+media_end
+slide1_text_begin
+contentious couple
+slide1_text_end
+slide2_text_begin
+technical def :- competing for something;usage def :- heated disagreement.
+slide2_text_end
+word_finish
+word_start
+word_begin
+contrite (adj)
+word_end
+media_begin
+../media/image46.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+feeling sorry or regretful
+slide2_text_end
+word_finish
+word_start
+word_begin
+conundrum (noun)
+word_end
+media_begin
+../media/image47.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+a difficult and confusing problem
+slide2_text_end
+word_finish
+word_start
+word_begin
+convoluted (adj)
+word_end
+media_begin
+../media/image48.gif
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+extremely complex and difficult to follow
+slide2_text_end
+word_finish
+word_start
+word_begin
+craven (adj/noun)
+word_end
+media_begin
+../media/image49.jpeg
+media_end
+slide1_text_begin
+craven girl
+slide1_text_end
+slide2_text_begin
+showing no courage
+slide2_text_end
+word_finish
+word_start
+word_begin
+daunt (verb)
+word_end
+media_begin
+../media/image50.jpeg
+media_end
+slide1_text_begin
+her daunting nightmare
+slide1_text_end
+slide2_text_begin
+make someone feel fearful or intimidated 
+slide2_text_end
+word_finish
+word_start
+word_begin
+decorum (noun)
+word_end
+media_begin
+../media/image51.jpeg
+media_end
+slide1_text_begin
+funeral decorum
+slide1_text_end
+slide2_text_begin
+showing proper behavior which is required by the situation/place.
+slide2_text_end
+word_finish
+word_start
+word_begin
+deference (noun)
+word_end
+media_begin
+../media/image52.jpeg
+media_end
+slide1_text_begin
+always show deference to elders
+slide1_text_end
+slide2_text_begin
+polite submission and respect
+slide2_text_end
+word_finish
+word_start
+word_begin
+delineate (verb)
+word_end
+media_begin
+../media/image53.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+outline and describe something in detail
+slide2_text_end
+word_finish
+word_start
+word_begin
+denigrate (verb)
+word_end
+media_begin
+../media/image54.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+criticize or say bad things about some thing or someone
+slide2_text_end
+word_finish
+word_start
+word_begin
+deride (verb)
+word_end
+media_begin
+../media/image55.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+make low of something/someone by making fun of them or mocking them
+slide2_text_end
+word_finish
+word_start
+word_begin
+dessicate (verb)
+word_end
+media_begin
+../media/image56.jpeg
+media_end
+slide1_text_begin
+desiccated leaves
+slide1_text_end
+slide2_text_begin
+to dry out or remove moisture from something; make something lifeless
+slide2_text_end
+word_finish
+word_start
+word_begin
+desultory (adj)
+word_end
+media_begin
+../media/image57.jpeg
+media_end
+slide1_text_begin
+desultory planning for the trip
+slide1_text_end
+slide2_text_begin
+lacking any plan or purpose; switching from one thing to another
+slide2_text_end
+word_finish
+word_start
+word_begin
+deterrent (adj/noun)
+word_end
+media_begin
+../media/image58.jpeg
+media_end
+slide1_text_begin
+deterrent effect of the college security system
+slide1_text_end
+slide2_text_begin
+something that discourages someone to do something.
+slide2_text_end
+word_finish
+word_start
+word_begin
+diatribe (noun)
+word_end
+media_begin
+../media/image59.jpeg
+media_end
+slide1_text_begin
+frustrated customer showing diatribe against customer care
+slide1_text_end
+slide2_text_begin
+sudden intense verbal attack against someone or something
+slide2_text_end
+word_finish
+word_start
+word_begin
+diffidence (noun)
+word_end
+media_begin
+../media/image60.jpeg
+media_end
+slide1_text_begin
+diffident guy is scared of talking to his crush
+slide1_text_end
+slide2_text_begin
+shyness resulting from lack of self-confidence
+slide2_text_end
+word_finish
+word_start
+word_begin
+dirge (noun)
+word_end
+media_begin
+../media/image61.jpeg
+media_end
+slide1_text_begin
+dirge for the late president
+slide1_text_end
+slide2_text_begin
+mourning song or music
+slide2_text_end
+word_finish
+word_start
+word_begin
+disabuse (verb)
+word_end
+media_begin
+../media/image62.jpeg
+media_end
+slide1_text_begin
+He disabused me of my faith in psychiatry ,saying it is not science.  
+slide1_text_end
+slide2_text_begin
+persuade someone that their belief in something is not true.
+slide2_text_end
+word_finish
+word_start
+word_begin
+discredit (verb)
+word_end
+media_begin
+../media/image63.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+to harm the reputation of or to cause mistrust
+slide2_text_end
+word_finish
+word_start
+word_begin
+dissemble (verb)
+word_end
+media_begin
+../media/image64.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+hide or disguise one’s true feelings or beliefs
+slide2_text_end
+word_finish
+word_start
+word_begin
+disseminate (verb)
+word_end
+media_begin
+../media/image65.jpeg
+media_end
+slide1_text_begin
+Semin- derives from the Latin word for seed.the idea with disseminate is that information travels like seeds sown by a farmer.
+slide1_text_end
+slide2_text_begin
+to spread information widely
+slide2_text_end
+word_finish
+word_start
+word_begin
+disingenuous (adj)
+word_end
+media_begin
+../media/image66.jpeg
+media_end
+slide1_text_begin
+disingenuous business communications
+slide1_text_end
+slide2_text_begin
+not sincere or pretending to know less about something than they really do.
+slide2_text_end
+word_finish
+word_start
+word_begin
+disinterested (adj)
+word_end
+media_begin
+../media/image67.jpeg
+media_end
+slide1_text_begin
+disinterested judges ( the right two)
+slide1_text_end
+slide2_text_begin
+unbiased or uninterested
+slide2_text_end
+word_finish
+word_start
+word_begin
+dissolution (noun)
+word_end
+media_begin
+../media/image68.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+disintegration, separation or ending
+slide2_text_end
+word_finish
+word_start
+word_begin
+dissonance (noun)
+word_end
+media_begin
+../media/image69.jpeg
+media_end
+slide1_text_begin
+technical – unhearable sounds
+slide1_text_end
+slide2_text_begin
+lack of agreement between things or people. eg: dissonance among candidates in group.
+slide2_text_end
+word_finish
+word_start
+word_begin
+distend (verb)
+word_end
+media_begin
+../media/image70.jpeg
+media_end
+slide1_text_begin
+tendere (latin) – to stretch
+slide1_text_end
+slide2_text_begin
+swell or bulge due to inside pressure (often used for stomach)
+slide2_text_end
+word_finish
+word_start
+word_begin
+distill (verb)
+word_end
+media_begin
+../media/image72.gif ../media/image71.jpeg
+media_end
+slide1_text_begin
+distilling waterdistilling big data
+slide1_text_end
+slide2_text_begin
+extract the essence of something.eg: textbook is distilled into slides.
+slide2_text_end
+word_finish
+word_start
+word_begin
+divest (verb)
+word_end
+media_begin
+../media/image73.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+get rid of something or someone.
+slide2_text_end
+word_finish
+word_start
+word_begin
+discerning (adj)
+word_end
+media_begin
+../media/image74.jpeg
+media_end
+slide1_text_begin
+discerning attitude 
+slide1_text_end
+slide2_text_begin
+having or showing good judgement
+slide2_text_end
+word_finish
+word_start
+word_begin
+discordant (adj)
+word_end
+media_begin
+../media/image75.png
+media_end
+slide1_text_begin
+discordant views on something
+slide1_text_end
+slide2_text_begin
+lacking in agreement or having conflicting opinions
+slide2_text_end
+word_finish
+word_start
+word_begin
+disparage (verb)
+word_end
+media_begin
+../media/image76.jpeg
+media_end
+slide1_text_begin
+he disparaged his employee
+slide1_text_end
+slide2_text_begin
+represent something or someone that they are of little worth; degrade or belittle 
+slide2_text_end
+word_finish
+word_start
+word_begin
+dogmatic (adj)
+word_end
+media_begin
+../media/image77.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+to follow a set of rules (often without any reasoning).
+slide2_text_end
+word_finish
+word_start
+word_begin
+dormant (adj)
+word_end
+media_begin
+../media/image78.jpeg
+media_end
+slide1_text_begin
+root – dorm- : sleep
+slide1_text_end
+slide2_text_begin
+temporarily inactive, but capable of becoming active.
+slide2_text_end
+word_finish
+word_start
+word_begin
+dichotomy (noun)
+word_end
+media_begin
+../media/image79.jpeg
+media_end
+slide1_text_begin
+dichotomy between money and goalsdicho – two tomy – cut/splitso, split into two???
+slide1_text_end
+slide2_text_begin
+contrast between two things which are entirely opposite to each other
+slide2_text_end
+word_finish
+word_start
+word_begin
+disparate (adj)
+word_end
+media_begin
+../media/image80.jpeg
+media_end
+slide1_text_begin
+disparate treatment 
+slide1_text_end
+slide2_text_begin
+essentially different or unique in kind
+slide2_text_end
+word_finish
+word_start
+word_begin
+ebullient (adj)
+word_end
+media_begin
+../media/image81.jpeg
+media_end
+slide1_text_begin
+ebullient couple
+slide1_text_end
+slide2_text_begin
+cheerful and full of energy, more than happy
+slide2_text_end
+word_finish
+word_start
+word_begin
+eclectic (adj)
+word_end
+media_begin
+../media/image82.jpeg
+media_end
+slide1_text_begin
+eclectic mix of living rooms designs
+slide1_text_end
+slide2_text_begin
+deriving ideas from wide range of sources.
+slide2_text_end
+word_finish
+word_start
+word_begin
+efficacy (noun)
+word_end
+media_begin
+../media/image83.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+ability to produce desired result
+slide2_text_end
+word_finish
+word_start
+word_begin
+effrontery (noun)
+word_end
+media_begin
+../media/image84.jpeg
+media_end
+slide1_text_begin
+Students often showcase effrontery in the exams.
+slide1_text_end
+slide2_text_begin
+rude and arrogant behavior towards things that they have no right to do. 
+slide2_text_end
+word_finish
+word_start
+word_begin
+egregious (adj)
+word_end
+media_begin
+../media/image85.jpeg
+media_end
+slide1_text_begin
+egregious error
+slide1_text_end
+slide2_text_begin
+shockingly bad or offensive
+slide2_text_end
+word_finish
+word_start
+word_begin
+egress (noun)
+word_end
+media_begin
+../media/image86.jpeg
+media_end
+slide1_text_begin
+she found a means of egress
+slide1_text_end
+slide2_text_begin
+the act of going out or leaving a place
+slide2_text_end
+word_finish
+word_start
+word_begin
+elegy (noun)
+word_end
+media_begin
+../media/image87.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+sad song or poem (usually written for the dead)
+slide2_text_end
+word_finish
+word_start
+word_begin
+elicit (verb)
+word_end
+media_begin
+../media/image88.png
+media_end
+slide1_text_begin
+police try to elicit details from the criminal
+slide1_text_end
+slide2_text_begin
+bring out or extract something from someone(response or reaction)
+slide2_text_end
+word_finish
+word_start
+word_begin
+elucidate (verb)
+word_end
+media_begin
+../media/image89.jpeg
+media_end
+slide1_text_begin
+teacher elucidated her point
+slide1_text_end
+slide2_text_begin
+make something very clear
+slide2_text_end
+word_finish
+word_start
+word_begin
+emasculate (verb)
+word_end
+media_begin
+../media/image90.jpeg
+media_end
+slide1_text_begin
+Lady boss emasculated his employee
+slide1_text_end
+slide2_text_begin
+take away the strength of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+embargo (noun)
+word_end
+media_begin
+../media/image91.jpeg
+media_end
+slide1_text_begin
+UN blasts US embargo on cuba
+slide1_text_end
+slide2_text_begin
+commercial ban on something with a country (usually trade)
+slide2_text_end
+word_finish
+word_start
+word_begin
+embellish (verb)
+word_end
+media_begin
+../media/image92.jpeg
+media_end
+slide1_text_begin
+bride embellished by jewellery
+slide1_text_end
+slide2_text_begin
+make something more attractive by adding decorative details
+slide2_text_end
+word_finish
+word_start
+word_begin
+endemic (adj)
+word_end
+media_begin
+../media/image93.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+native to a particular region/community
+slide2_text_end
+word_finish
+word_start
+word_begin
+enervate (verb)
+word_end
+media_begin
+../media/image94.jpeg
+media_end
+slide1_text_begin
+the enervating heat from the sun
+slide1_text_end
+slide2_text_begin
+to drain out energy
+slide2_text_end
+word_finish
+word_start
+word_begin
+engender (verb)
+word_end
+media_begin
+../media/image95.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+give rise to something
+slide2_text_end
+word_finish
+word_start
+word_begin
+ephemeral (adj)
+word_end
+media_begin
+../media/image96.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+lasting for a very short time
+slide2_text_end
+word_finish
+word_start
+word_begin
+epidemic (noun)
+word_end
+media_begin
+../media/image97.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+a sudden widespread occurrence of undesirable phenomenon(usually desease)
+slide2_text_end
+word_finish
+word_start
+word_begin
+equanimity (noun)
+word_end
+media_begin
+../media/image98.jpeg
+media_end
+slide1_text_begin
+equa – equalanimus - mind
+slide1_text_end
+slide2_text_begin
+emotional calmness or stability in any situation(usually under stress)
+slide2_text_end
+word_finish
+word_start
+word_begin
+equivocate (verb)
+word_end
+media_begin
+../media/image99.jpeg
+media_end
+slide1_text_begin
+equ – equalvoc – voicesay yes and no with equal voice.
+slide1_text_end
+slide2_text_begin
+use ambiguous language so as to hide the truth or avoid committing oneself.
+slide2_text_end
+word_finish
+word_start
+word_begin
+erudite (adj)
+word_end
+media_begin
+../media/image100.gif
+media_end
+slide1_text_begin
+an erudite scientist
+slide1_text_end
+slide2_text_begin
+schorarly; showing great knowledge and learning
+slide2_text_end
+word_finish
+word_start
+word_begin
+esoteric (adj)
+word_end
+media_begin
+../media/image101.jpeg
+media_end
+slide1_text_begin
+esoteric financial jargon.!
+slide1_text_end
+slide2_text_begin
+confined to or understandable by only a small group of people interested in the subject
+slide2_text_end
+word_finish
+word_start
+word_begin
+eulogy (noun)
+word_end
+media_begin
+../media/image102.jpeg
+media_end
+slide1_text_begin
+Michael clark’s phillip hughes eulogy
+slide1_text_end
+slide2_text_begin
+formal expression of praise for someone who has died
+slide2_text_end
+word_finish
+word_start
+word_begin
+euphemism (noun)
+word_end
+media_begin
+../media/image103.png
+media_end
+slide1_text_begin
+euphemism for “you’re fired.
+slide1_text_end
+slide2_text_begin
+polite way of saying something harsh and rough
+slide2_text_end
+word_finish
+word_start
+word_begin
+exacerbate (verb)
+word_end
+media_begin
+../media/image104.jpeg
+media_end
+slide1_text_begin
+acerb – bitter or harsh
+slide1_text_end
+slide2_text_begin
+make something worse
+slide2_text_end
+word_finish
+word_start
+word_begin
+exalt (verb)
+word_end
+media_begin
+../media/image105.jpeg
+media_end
+slide1_text_begin
+He exalted the movie with his presence
+slide1_text_end
+slide2_text_begin
+raise something up; glorify or enhance something
+slide2_text_end
+word_finish
+word_start
+word_begin
+exigency (noun)
+word_end
+media_begin
+../media/image106.jpeg
+media_end
+slide1_text_begin
+an exigent situation
+slide1_text_end
+slide2_text_begin
+sudden situation requiring immediate action
+slide2_text_end
+word_finish
+word_start
+word_begin
+exculpate (verb)
+word_end
+media_begin
+../media/image107.jpeg
+media_end
+slide1_text_begin
+he got exculpated from his chargesex – outculp – blameremove blame ..?
+slide1_text_end
+slide2_text_begin
+declare that someone is not guilty of the wrongdoing
+slide2_text_end
+word_finish
+word_start
+word_begin
+exhume (verbex – outhumus – grounddead bodies being exhumed
+word_end
+media_begin
+../media/image108.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+dig out something buried from the ground
+slide2_text_end
+word_finish
+word_start
+word_begin
+extol (verb)
+word_end
+media_begin
+../media/image109.jpeg
+media_end
+slide1_text_begin
+ex – out/upwardTeam extolled her performance
+slide1_text_end
+slide2_text_begin
+praise someone heavily
+slide2_text_end
+word_finish
+word_start
+word_begin
+extortion (noun)
+word_end
+media_begin
+../media/image110.jpeg
+media_end
+slide1_text_begin
+cyber extortion
+slide1_text_end
+slide2_text_begin
+practice of obtaining something by force
+slide2_text_end
+word_finish
+word_start
+word_begin
+facetious (adj)
+word_end
+media_begin
+../media/image111.png
+media_end
+slide1_text_begin
+facetious remark
+slide1_text_end
+slide2_text_begin
+treating issues with deliberately inappropriate humour
+slide2_text_end
+word_finish
+word_start
+word_begin
+fallacious (adj)
+word_end
+media_begin
+../media/image112.jpeg
+media_end
+slide1_text_begin
+fallacious reasoning
+slide1_text_end
+slide2_text_begin
+based on a mistaken belief
+slide2_text_end
+word_finish
+word_start
+word_begin
+fatuous (adj)
+word_end
+media_begin
+../media/image113.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+silly and pointless
+slide2_text_end
+word_finish
+word_start
+word_begin
+fawning (adj)
+word_end
+media_begin
+../media/image114.jpeg
+media_end
+slide1_text_begin
+a fawning colleague
+slide1_text_end
+slide2_text_begin
+displaying exaggerated flattery
+slide2_text_end
+word_finish
+word_start
+word_begin
+felicitous (adj)
+word_end
+media_begin
+../media/image115.jpeg
+media_end
+slide1_text_begin
+felicitous mem for current society
+slide1_text_end
+slide2_text_begin
+well chosen or suited to the occasion
+slide2_text_end
+word_finish
+word_start
+word_begin
+fervor (noun)
+word_end
+media_begin
+../media/image116.jpeg
+media_end
+slide1_text_begin
+fervor of love
+slide1_text_end
+slide2_text_begin
+intense warmth and passionate feeling
+slide2_text_end
+word_finish
+word_start
+word_begin
+festoon (noun)
+word_end
+media_begin
+../media/image117.jpeg
+media_end
+slide1_text_begin
+Festoons of light flowers
+slide1_text_end
+slide2_text_begin
+
+slide2_text_end
+word_finish
+word_start
+word_begin
+fetid (adj)
+word_end
+media_begin
+../media/image118.jpeg
+media_end
+slide1_text_begin
+fetid pile of sweaty clothes
+slide1_text_end
+slide2_text_begin
+smelling extremely unpleasant
+slide2_text_end
+word_finish
+word_start
+word_begin
+fetters (noun)
+word_end
+media_begin
+../media/image119.jpeg
+media_end
+slide1_text_begin
+I feel fettered at home
+slide1_text_end
+slide2_text_begin
+cuffs or strict rules or restrictions
+slide2_text_end
+word_finish
+word_start
+word_begin
+fledgling (noun)
+word_end
+media_begin
+../media/image121.jpeg ../media/image120.png
+media_end
+slide1_text_begin
+tech: baby bird learning to fly
+slide1_text_end
+slide2_text_begin
+a person or organization that is immature and inexperienced at something
+slide2_text_end
+word_finish
+word_start
+word_begin
+flout (verb)
+word_end
+media_begin
+../media/image122.jpeg
+media_end
+slide1_text_begin
+flout the rules
+slide1_text_end
+slide2_text_begin
+openly disregard a rule or law
+slide2_text_end
+word_finish
+word_start
+word_begin
+foment (verb)
+word_end
+media_begin
+../media/image123.jpeg
+media_end
+slide1_text_begin
+fomenting unrest among the  civilians
+slide1_text_end
+slide2_text_begin
+instigate or stir up a violent course of action
+slide2_text_end
+word_finish
+word_start
+word_begin
+frugal (adj)
+word_end
+media_begin
+../media/image124.jpeg
+media_end
+slide1_text_begin
+frugal living tips to repay your home loan
+slide1_text_end
+slide2_text_begin
+economical; avoiding wastage of money or food
+slide2_text_end
+word_finish
+word_start
+word_begin
+gaffe (noun)
+word_end
+media_begin
+../media/image125.jpeg
+media_end
+slide1_text_begin
+The Miss universe gaffe
+slide1_text_end
+slide2_text_begin
+an embarrassing mistake
+slide2_text_end
+word_finish
+word_start
+word_begin
+gainsay (verb)
+word_end
+media_begin
+../media/image126.jpeg
+media_end
+slide1_text_begin
+gain – from against.say.say + against.
+slide1_text_end
+slide2_text_begin
+"contradict" or "speak out against.“eg: teachers don't like it when unruly students gainsay them.
+slide2_text_end
+word_finish
+word_start
+word_begin
+garrulous (adj)
+word_end
+media_begin
+../media/image127.jpeg
+media_end
+slide1_text_begin
+garrulous cab driver never stopped blabbering. 
+slide1_text_end
+slide2_text_begin
+excessively talkative; full of trivial conversation
+slide2_text_end
+word_finish
+word_start
+word_begin
+to goad (verb)
+word_end
+media_begin
+../media/image129.jpeg ../media/image128.jpeg
+media_end
+slide1_text_begin
+technical(noun goad) – a pointing stick.he goaded me into the fight
+slide1_text_end
+slide2_text_begin
+to provoke or annoy someone (as if by pointing a stick)
+slide2_text_end
+word_finish
+word_start
+word_begin
+gouge (verb)
+word_end
+media_begin
+../media/image131.jpeg ../media/image130.jpeg
+media_end
+slide1_text_begin
+eye gouge on diego costa
+slide1_text_end
+slide2_text_begin
+cut or force something roughly.
+slide2_text_end
+word_finish
+word_start
+word_begin
+grandiloquent (adj)
+word_end
+media_begin
+../media/image132.jpeg
+media_end
+slide1_text_begin
+grand – greatloquent – to speak
+slide1_text_end
+slide2_text_begin
+extravagant in language or style
+slide2_text_end
+word_finish
+word_start
+word_begin
+guileless (adj)
+word_end
+media_begin
+../media/image133.jpeg
+media_end
+slide1_text_begin
+guile – cunning intelligence
+slide1_text_end
+slide2_text_begin
+innocent; without deception.
+slide2_text_end
+word_finish
+word_start
+word_begin
+gullible (adj)
+word_end
+media_begin
+../media/image134.jpeg
+media_end
+slide1_text_begin
+he made fun of gullible miss.
+slide1_text_end
+slide2_text_begin
+easily persuaded to believe something; easily made fun of;
+slide2_text_end
+word_finish
+word_start
+word_begin
+hackneyed (adj)
+word_end
+media_begin
+../media/image135.png
+media_end
+slide1_text_begin
+hackneyed old sayings
+slide1_text_end
+slide2_text_begin
+phrase or idea that is overused or unoriginal
+slide2_text_end
+word_finish
+word_start
+word_begin
+hapless (adj)
+word_end
+media_begin
+../media/image136.jpeg
+media_end
+slide1_text_begin
+hap – good fortunehapless victims of the disaster
+slide1_text_end
+slide2_text_begin
+unlucky and deserving pity
+slide2_text_end
+word_finish
+word_start
+word_begin
+harangue (noun)
+word_end
+media_begin
+../media/image137.jpeg
+media_end
+slide1_text_begin
+The president’s harangue.
+slide1_text_end
+slide2_text_begin
+a lengthy and aggressive speech.
+slide2_text_end
+word_finish
+word_start
+word_begin
+harp on (verb)
+word_end
+media_begin
+../media/image138.jpeg
+media_end
+slide1_text_begin
+coach kept harping on about discipline
+slide1_text_end
+slide2_text_begin
+talk repeatedly about something
+slide2_text_end
+word_finish
+word_start
+word_begin
+harrowing (adj)
+word_end
+media_begin
+../media/image139.jpeg
+media_end
+slide1_text_begin
+the film is harrowing and haunting
+slide1_text_end
+slide2_text_begin
+provoking feelings of fear and distress
+slide2_text_end
+word_finish
+word_start
+word_begin
+hyperbole (noun)
+word_end
+media_begin
+../media/image140.jpeg
+media_end
+slide1_text_begin
+Kid being hyperbolic
+slide1_text_end
+slide2_text_begin
+exaggerated statements or claims not meant to be taken literally.
+slide2_text_end
+word_finish
+word_start
+word_begin
+idolatry (	noun)
+word_end
+media_begin
+../media/image141.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+worship of idols
+slide2_text_end
+word_finish
+word_start
+word_begin
+ilk (noun)
+word_end
+media_begin
+../media/image142.jpeg
+media_end
+slide1_text_begin
+I like dogs of its ilk
+slide1_text_end
+slide2_text_begin
+certain type of person or thing
+slide2_text_end
+word_finish
+word_start
+word_begin
+imbue (verb)
+word_end
+media_begin
+../media/image143.jpeg
+media_end
+slide1_text_begin
+feeling imbued with nature’s serenity
+slide1_text_end
+slide2_text_begin
+permeate with a feeling or quality
+slide2_text_end
+word_finish
+word_start
+word_begin
+immutable (adj)
+word_end
+media_begin
+../media/image144.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+unable to be changed.
+slide2_text_end
+word_finish
+word_start
+word_begin
+impassive (adj)
+word_end
+media_begin
+../media/image145.jpeg
+media_end
+slide1_text_begin
+=passive passive -&gt; related to actionsipassive -&gt; related to expression or emotions
+slide1_text_end
+slide2_text_begin
+having no emotions aor sensibility; not easily excited.
+slide2_text_end
+word_finish
+word_start
+word_begin
+impede (verb)
+word_end
+media_begin
+../media/image146.gif
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+block progress of someone or something
+slide2_text_end
+word_finish
+word_start
+word_begin
+imperturbable (adj)
+word_end
+media_begin
+../media/image147.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+not affected by anything; extremely calm and composed
+slide2_text_end
+word_finish
+word_start
+word_begin
+implacable (adj)
+word_end
+media_begin
+../media/image148.jpeg
+media_end
+slide1_text_begin
+the implacable leader in search engines
+slide1_text_end
+slide2_text_begin
+impossible to change something or calm down someone.
+slide2_text_end
+word_finish
+word_start
+word_begin
+inadvertently (adv)
+word_end
+media_begin
+../media/image149.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+without knowledge or intention
+slide2_text_end
+word_finish
+word_start
+word_begin
+inchoate (adj)
+word_end
+media_begin
+../media/image150.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+just beginning to form or not fully developed
+slide2_text_end
+word_finish
+word_start
+word_begin
+incongruous (adj)
+word_end
+media_begin
+../media/image151.jpeg
+media_end
+slide1_text_begin
+in - notcongrus -  agreeing/suitable  
+slide1_text_end
+slide2_text_begin
+not fitting to the location or situation
+slide2_text_end
+word_finish
+word_start
+word_begin
+inconsequential (adj)
+word_end
+media_begin
+../media/image152.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+not important or significant
+slide2_text_end
+word_finish
+word_start
+word_begin
+indigence (noun)
+word_end
+media_begin
+../media/image153.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+state of extreme poverty
+slide2_text_end
+word_finish
+word_start
+word_begin
+indolent (adj)
+word_end
+media_begin
+../media/image154.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+wanting to avoid activity or being too lazy and sluggish
+slide2_text_end
+word_finish
+word_start
+word_begin
+inept (adj)
+word_end
+media_begin
+../media/image155.jpeg
+media_end
+slide1_text_begin
+inept opposition couldn’t handle pressure
+slide1_text_end
+slide2_text_begin
+having or showing no skill or competition
+slide2_text_end
+word_finish
+word_start
+word_begin
+inert (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+eg: inert gases
+slide1_text_end
+slide2_text_begin
+inactive or unable to move
+slide2_text_end
+word_finish
+word_start
+word_begin
+ingenuous (adj)
+word_end
+media_begin
+../media/image156.jpeg
+media_end
+slide1_text_begin
+ingenuous people 
+slide1_text_end
+slide2_text_begin
+innocent and unsuspecting
+slide2_text_end
+word_finish
+word_start
+word_begin
+innocuous (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+in- notnoccus – injuryNo injury ??eg: it was an innocuous adventure.
+slide1_text_end
+slide2_text_begin
+not physically or mentally harmful
+slide2_text_end
+word_finish
+word_start
+word_begin
+insinuate (verb)
+word_end
+media_begin
+../media/image157.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+hint something indirectly that may or may not be true. 
+slide2_text_end
+word_finish
+word_start
+word_begin
+insipid (adj)
+word_end
+media_begin
+../media/image158.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+lacking taste or interest
+slide2_text_end
+word_finish
+word_start
+word_begin
+intractable (adj)
+word_end
+media_begin
+../media/image159.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+hard to control or deal with
+slide2_text_end
+word_finish
+word_start
+word_begin
+intransigent (adj)
+word_end
+media_begin
+../media/image160.png
+media_end
+slide1_text_begin
+intransigent people
+slide1_text_end
+slide2_text_begin
+refusing to change one’s mind about something
+slide2_text_end
+word_finish
+word_start
+word_begin
+inure (verb)
+word_end
+media_begin
+../media/image161.jpeg
+media_end
+slide1_text_begin
+inured to boring lectures
+slide1_text_end
+slide2_text_begin
+to get accustomed to something unpleasant
+slide2_text_end
+word_finish
+word_start
+word_begin
+invective (noun)
+word_end
+media_begin
+../media/image162.jpeg
+media_end
+slide1_text_begin
+he let out a stream of invective 
+slide1_text_end
+slide2_text_begin
+highly insulting or abusive language
+slide2_text_end
+word_finish
+word_start
+word_begin
+irascible (adj)
+word_end
+media_begin
+../media/image163.jpeg
+media_end
+slide1_text_begin
+irascible woman gets angry very often
+slide1_text_end
+slide2_text_begin
+to be easily angered or irritated
+slide2_text_end
+word_finish
+word_start
+word_begin
+irresolute (adj)
+word_end
+media_begin
+../media/image164.jpeg
+media_end
+slide1_text_begin
+irresolute person doesn’t know what to do.
+slide1_text_end
+slide2_text_begin
+uncertain how to act or proceed
+slide2_text_end
+word_finish
+word_start
+word_begin
+laconic (adj)
+word_end
+media_begin
+../media/image165.jpeg
+media_end
+slide1_text_begin
+laconic saying
+slide1_text_end
+slide2_text_begin
+describes a style of speaking or writing using a few words
+slide2_text_end
+word_finish
+word_start
+word_begin
+layman (noun)
+word_end
+media_begin
+../media/image166.jpeg
+media_end
+slide1_text_begin
+championship for laymen
+slide1_text_end
+slide2_text_begin
+who has little knowledge about something but not a proffessional
+slide2_text_end
+word_finish
+word_start
+word_begin
+lassitude (noun)
+word_end
+media_begin
+../media/image167.jpeg
+media_end
+slide1_text_begin
+she was overcome by lassitude
+slide1_text_end
+slide2_text_begin
+a state of physical or mental weakness
+slide2_text_end
+word_finish
+word_start
+word_begin
+latent (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+root: latent – means hiddeneg: latent heat, latent talent
+slide1_text_end
+slide2_text_begin
+potentially existing but not currently active.
+slide2_text_end
+word_finish
+word_start
+word_begin
+levee (noun)
+word_end
+media_begin
+../media/image169.jpeg ../media/image168.jpeg
+media_end
+slide1_text_begin
+technical – a dam or any lifted thing.president’s leevee
+slide1_text_end
+slide2_text_begin
+a formal reception to king or ruler.
+slide2_text_end
+word_finish
+word_start
+word_begin
+lethargic (adj)
+word_end
+media_begin
+../media/image170.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+lazy and unenergitic
+slide2_text_end
+word_finish
+word_start
+word_begin
+levity (noun)
+word_end
+media_begin
+../media/image171.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+lack of seriousness; adding humour to serious situations(to make things light).
+slide2_text_end
+word_finish
+word_start
+word_begin
+linchpin (noun)
+word_end
+media_begin
+../media/image172.jpeg
+media_end
+slide1_text_begin
+goalie is the linchpin of this team
+slide1_text_end
+slide2_text_begin
+am important part of something, that holds it all together
+slide2_text_end
+word_finish
+word_start
+word_begin
+loquacious (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+loqu – to talk-ious – adj formtalkative.
+slide1_text_end
+slide2_text_begin
+full of trivial conversation;syn: garrulous
+slide2_text_end
+word_finish
+word_start
+word_begin
+lucrative (adj)
+word_end
+media_begin
+../media/image173.jpeg
+media_end
+slide1_text_begin
+lucrative business idea
+slide1_text_end
+slide2_text_begin
+producing great profits
+slide2_text_end
+word_finish
+word_start
+word_begin
+ludicrous (adj)
+word_end
+media_begin
+../media/image174.jpeg
+media_end
+slide1_text_begin
+ludicrous cartoon
+slide1_text_end
+slide2_text_begin
+so foolish, funny and unreasonable
+slide2_text_end
+word_finish
+word_start
+word_begin
+magnanimous (adj)
+word_end
+media_begin
+../media/image175.jpeg
+media_end
+slide1_text_begin
+Magnanimous woman giving free apples.
+slide1_text_end
+slide2_text_begin
+generous or unselfish;
+slide2_text_end
+word_finish
+word_start
+word_begin
+opus (noun)
+word_end
+media_begin
+../media/image176.jpeg
+media_end
+slide1_text_begin
+bahubali – a magnum opus
+slide1_text_end
+slide2_text_begin
+great piece of literary work or musical composition
+slide2_text_end
+word_finish
+word_start
+word_begin
+magnate (noun)
+word_end
+media_begin
+../media/image177.jpeg
+media_end
+slide1_text_begin
+technology magnate
+slide1_text_end
+slide2_text_begin
+wealthy and influential business person
+slide2_text_end
+word_finish
+word_start
+word_begin
+malinger (verb)
+word_end
+media_begin
+../media/image178.jpeg
+media_end
+slide1_text_begin
+He is obviously malingering
+slide1_text_end
+slide2_text_begin
+pretend to be sick to escape from something
+slide2_text_end
+word_finish
+word_start
+word_begin
+mar (verb)
+word_end
+media_begin
+../media/image179.jpeg
+media_end
+slide1_text_begin
+ink mark marred the shirt
+slide1_text_end
+slide2_text_begin
+spoil the appearance of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+martial (adj)
+word_end
+media_begin
+../media/image180.jpeg
+media_end
+slide1_text_begin
+martial arts
+slide1_text_end
+slide2_text_begin
+relating to military or fighting
+slide2_text_end
+word_finish
+word_start
+word_begin
+maverick (noun)
+word_end
+media_begin
+../media/image181.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+independent minded person
+slide2_text_end
+word_finish
+word_start
+word_begin
+mendacious (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+mendac – lying 
+slide1_text_end
+slide2_text_begin
+lying attitude
+slide2_text_end
+word_finish
+word_start
+word_begin
+meticulous (adj)
+word_end
+media_begin
+../media/image182.jpeg
+media_end
+slide1_text_begin
+meti – fearmeticulous effort by the groundsman
+slide1_text_end
+slide2_text_begin
+showing great attention to detail; very careful and precise.
+slide2_text_end
+word_finish
+word_start
+word_begin
+milieu (noun)
+word_end
+media_begin
+../media/image183.jpeg
+media_end
+slide1_text_begin
+they grew up in military milieu
+slide1_text_end
+slide2_text_begin
+a person’s social environment
+slide2_text_end
+word_finish
+word_start
+word_begin
+minuscule (adj)
+word_end
+media_begin
+../media/image184.jpeg
+media_end
+slide1_text_begin
+minuscule camera
+slide1_text_end
+slide2_text_begin
+extremely tiny
+slide2_text_end
+word_finish
+word_start
+word_begin
+mire (noun)
+word_end
+media_begin
+../media/image185.jpeg
+media_end
+slide1_text_begin
+mired in his relationship
+slide1_text_end
+slide2_text_begin
+thick boggy sand; refers to a situation from which it is difficult to come out
+slide2_text_end
+word_finish
+word_start
+word_begin
+mitigate (verb)
+word_end
+media_begin
+../media/image186.jpeg
+media_end
+slide1_text_begin
+mitigate the risk of cancer by eating these
+slide1_text_end
+slide2_text_begin
+make less severe.
+slide2_text_end
+word_finish
+word_start
+word_begin
+mollify (verb)
+word_end
+media_begin
+../media/image187.jpeg
+media_end
+slide1_text_begin
+He is mollifying his crying friend
+slide1_text_end
+slide2_text_begin
+calm someone or something down.
+slide2_text_end
+word_finish
+word_start
+word_begin
+moot (adj)
+word_end
+media_begin
+../media/image188.gif
+media_end
+slide1_text_begin
+its like a cow’s opinion. its moot.
+slide1_text_end
+slide2_text_begin
+too trivial to think about
+slide2_text_end
+word_finish
+word_start
+word_begin
+morose (adj)
+word_end
+media_begin
+../media/image189.jpeg
+media_end
+slide1_text_begin
+a morose person
+slide1_text_end
+slide2_text_begin
+sad, dull or gloomy
+slide2_text_end
+word_finish
+word_start
+word_begin
+mundane (adj)
+word_end
+media_begin
+../media/image190.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+ordinary, dull and lacking excitement
+slide2_text_end
+word_finish
+word_start
+word_begin
+narcissism (noun)
+word_end
+media_begin
+../media/image191.jpeg
+media_end
+slide1_text_begin
+Narcissistic personality
+slide1_text_end
+slide2_text_begin
+
+slide2_text_end
+word_finish
+word_start
+word_begin
+nebulous (adj)
+word_end
+media_begin
+../media/image192.jpeg
+media_end
+slide1_text_begin
+nebula – mistnebulous distinction between pride and conceit
+slide1_text_end
+slide2_text_begin
+misty; something that is vague , unclear or ill-defined
+slide2_text_end
+word_finish
+word_start
+word_begin
+nefarious (adj)
+word_end
+media_begin
+../media/image193.jpeg
+media_end
+slide1_text_begin
+nefarious villain
+slide1_text_end
+slide2_text_begin
+extremely evil or wicked
+slide2_text_end
+word_finish
+word_start
+word_begin
+nemesis (noun)
+word_end
+media_begin
+../media/image194.jpeg
+media_end
+slide1_text_begin
+Ronaldo and his nemesis
+slide1_text_end
+slide2_text_begin
+arch rival
+slide2_text_end
+word_finish
+word_start
+word_begin
+neophyte (noun)
+word_end
+media_begin
+../media/image195.jpeg
+media_end
+slide1_text_begin
+classes for neophytes
+slide1_text_end
+slide2_text_begin
+someone who is new to some activity or practice
+slide2_text_end
+word_finish
+word_start
+word_begin
+niche (noun)
+word_end
+media_begin
+../media/image196.jpeg
+media_end
+slide1_text_begin
+found his niche in teaching
+slide1_text_end
+slide2_text_begin
+state of being in comfortable or suitable situation
+slide2_text_end
+word_finish
+word_start
+word_begin
+nonchalant (adj)
+word_end
+media_begin
+../media/image197.jpeg
+media_end
+slide1_text_begin
+nonchalant husband
+slide1_text_end
+slide2_text_begin
+casual; not displaying interest or anxiety
+slide2_text_end
+word_finish
+word_start
+word_begin
+obdurate (adj)
+word_end
+media_begin
+../media/image198.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+stubbornly refusing to change one’s opinion.
+slide2_text_end
+word_finish
+word_start
+word_begin
+obsequious (adj)
+word_end
+media_begin
+../media/image199.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+exhibiting overly obedient or servile behaviour
+slide2_text_end
+word_finish
+word_start
+word_begin
+obtuse (adj)
+word_end
+media_begin
+../media/image200.jpeg
+media_end
+slide1_text_begin
+the new employee is so obtuse
+slide1_text_end
+slide2_text_begin
+being annoyingly slow or difficult to understand something
+slide2_text_end
+word_finish
+word_start
+word_begin
+obviate (verb)
+word_end
+media_begin
+../media/image201.jpeg
+media_end
+slide1_text_begin
+ebooks obviated the need for textbooks
+slide1_text_end
+slide2_text_begin
+eliminate or remove a need or difficulty
+slide2_text_end
+word_finish
+word_start
+word_begin
+occlude (verb)
+word_end
+media_begin
+../media/image202.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+block the passage of somethinig
+slide2_text_end
+word_finish
+word_start
+word_begin
+officious (adj)
+word_end
+media_begin
+../media/image203.png
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+annoying eager to offer help or advice.
+slide2_text_end
+word_finish
+word_start
+word_begin
+onerous (adj)
+word_end
+media_begin
+../media/image204.jpeg
+media_end
+slide1_text_begin
+onus – burdeneg: onerous taxing system
+slide1_text_end
+slide2_text_begin
+involving great effort and trouble in dealing with something
+slide2_text_end
+word_finish
+word_start
+word_begin
+opprobrium (noun)
+word_end
+media_begin
+../media/image205.jpeg
+media_end
+slide1_text_begin
+trump has earned his opprobrium for the racist policies 
+slide1_text_end
+slide2_text_begin
+public hate or criticism against someone , due to his bad conduct
+slide2_text_end
+word_finish
+word_start
+word_begin
+ostentatious (adj)
+word_end
+media_begin
+../media/image206.jpeg
+media_end
+slide1_text_begin
+ostentatious car on display
+slide1_text_end
+slide2_text_begin
+intended to attract notice and impress others
+slide2_text_end
+word_finish
+word_start
+word_begin
+overture (noun)
+word_end
+media_begin
+../media/image207.png
+media_end
+slide1_text_begin
+overture to the musical concert
+slide1_text_end
+slide2_text_begin
+introduction to something longer
+slide2_text_end
+word_finish
+word_start
+word_begin
+pall (noun)
+word_end
+media_begin
+../media/image208.jpeg
+media_end
+slide1_text_begin
+terror attack cast a pall over the civilians
+slide1_text_end
+slide2_text_begin
+dark cloud of smoke; figuratively – a sudden dread
+slide2_text_end
+word_finish
+word_start
+word_begin
+panacea (noun)
+word_end
+media_begin
+../media/image209.jpeg
+media_end
+slide1_text_begin
+pan – allakos - remedypanacea for all corporate ills
+slide1_text_end
+slide2_text_begin
+remedy for all difficulties related to something
+slide2_text_end
+word_finish
+word_start
+word_begin
+palpable (adj)
+word_end
+media_begin
+../media/image210.gif
+media_end
+slide1_text_begin
+palp – touchpalpable sense of loss
+slide1_text_end
+slide2_text_begin
+tangible; able to be felt or touched
+slide2_text_end
+word_finish
+word_start
+word_begin
+panegyric (noun)
+word_end
+media_begin
+../media/image211.jpeg
+media_end
+slide1_text_begin
+singing panegyric on wine
+slide1_text_end
+slide2_text_begin
+song or poem of praise
+slide2_text_end
+word_finish
+word_start
+word_begin
+parable (noun)
+word_end
+media_begin
+../media/image212.jpeg
+media_end
+slide1_text_begin
+parables of jesus
+slide1_text_end
+slide2_text_begin
+a short story used to illustrate a moral
+slide2_text_end
+word_finish
+word_start
+word_begin
+paragon (noun)
+word_end
+media_begin
+../media/image213.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+perfect example of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+parrot (verb)
+word_end
+media_begin
+../media/image214.jpeg
+media_end
+slide1_text_begin
+some parrots parrot 
+slide1_text_end
+slide2_text_begin
+repeat or mimic words 
+slide2_text_end
+word_finish
+word_start
+word_begin
+parry (verb)
+word_end
+media_begin
+../media/image215.jpeg
+media_end
+slide1_text_begin
+parry an attack
+slide1_text_end
+slide2_text_begin
+avoid or ward off from something
+slide2_text_end
+word_finish
+word_start
+word_begin
+parsimonious (adj)
+word_end
+media_begin
+../media/image216.jpeg
+media_end
+slide1_text_begin
+I’m so parsimonious
+slide1_text_end
+slide2_text_begin
+unwilling to spend lot of money
+slide2_text_end
+word_finish
+word_start
+word_begin
+partisan (noun)
+word_end
+media_begin
+../media/image217.jpeg
+media_end
+slide1_text_begin
+two major partisan groups
+slide1_text_end
+slide2_text_begin
+strong supporter of a party, cause or person
+slide2_text_end
+word_finish
+word_start
+word_begin
+pathological (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+pathos – suffering/diseaseeg: his pathological urge to succeed 
+slide1_text_end
+slide2_text_begin
+characterized by physical or mental disease
+slide2_text_end
+word_finish
+word_start
+word_begin
+paucity (noun)
+word_end
+media_begin
+../media/image218.jpeg
+media_end
+slide1_text_begin
+paucity = scarcity ?
+slide1_text_end
+slide2_text_begin
+presence of something in insufficient or small quantities
+slide2_text_end
+word_finish
+word_start
+word_begin
+pedagogy (noun)
+word_end
+media_begin
+../media/image219.jpeg
+media_end
+slide1_text_begin
+child pedagogy
+slide1_text_end
+slide2_text_begin
+the practice of teaching
+slide2_text_end
+word_finish
+word_start
+word_begin
+pedantic (adj)
+word_end
+media_begin
+../media/image220.jpeg
+media_end
+slide1_text_begin
+A pedantic nerd 
+slide1_text_end
+slide2_text_begin
+excessively concerned with minor details about something
+slide2_text_end
+word_finish
+word_start
+word_begin
+peddle (verb)
+word_end
+media_begin
+../media/image221.jpeg
+media_end
+slide1_text_begin
+old man peddling toys
+slide1_text_end
+slide2_text_begin
+sell something by going from place to place
+slide2_text_end
+word_finish
+word_start
+word_begin
+pedestrian (adj)
+word_end
+media_begin
+../media/image222.jpeg
+media_end
+slide1_text_begin
+These novels were rather pedestrian
+slide1_text_end
+slide2_text_begin
+lacking excitement or dull
+slide2_text_end
+word_finish
+word_start
+word_begin
+penchant (noun)
+word_end
+media_begin
+../media/image223.jpeg
+media_end
+slide1_text_begin
+penchant for painting
+slide1_text_end
+slide2_text_begin
+strong or habitual liking for something
+slide2_text_end
+word_finish
+word_start
+word_begin
+penury (noun)
+word_end
+media_begin
+../media/image224.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+extreme poverty
+slide2_text_end
+word_finish
+word_start
+word_begin
+perennial (adj)
+word_end
+media_begin
+../media/image225.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+lasting an indefinitely long time and recurring again and again
+slide2_text_end
+word_finish
+word_start
+word_begin
+perfidious (adj)
+word_end
+media_begin
+../media/image226.jpeg
+media_end
+slide1_text_begin
+perfidious lover
+slide1_text_end
+slide2_text_begin
+untrustworthy and deceiveing 
+slide2_text_end
+word_finish
+word_start
+word_begin
+perforce (adv)
+word_end
+media_begin
+../media/image227.jpeg
+media_end
+slide1_text_begin
+I have to do this job perforce
+slide1_text_end
+slide2_text_begin
+by necessity
+slide2_text_end
+word_finish
+word_start
+word_begin
+perfunctory (adj)
+word_end
+media_begin
+../media/image228.jpeg
+media_end
+slide1_text_begin
+perfunctory handshake
+slide1_text_end
+slide2_text_begin
+action being carried out without real interest(often as part of routine)
+slide2_text_end
+word_finish
+word_start
+word_begin
+perjury (noun)
+word_end
+media_begin
+../media/image229.jpeg
+media_end
+slide1_text_begin
+He committed perjury.
+slide1_text_end
+slide2_text_begin
+deliberately lying when under oath
+slide2_text_end
+word_finish
+word_start
+word_begin
+perpetuate (verb)
+word_end
+media_begin
+../media/image230.jpeg
+media_end
+slide1_text_begin
+perpetual motion of the cards
+slide1_text_end
+slide2_text_begin
+make something continue indefinitely
+slide2_text_end
+word_finish
+word_start
+word_begin
+pervasive (adj)
+word_end
+media_begin
+../media/image231.jpeg
+media_end
+slide1_text_begin
+pervasive odor of smoke
+slide1_text_end
+slide2_text_begin
+spreading widely throughout an area or group of people
+slide2_text_end
+word_finish
+word_start
+word_begin
+phlegmatic (adj)
+word_end
+media_begin
+../media/image233.jpeg ../media/image232.jpeg
+media_end
+slide1_text_begin
+expressive phlegmatic 
+slide1_text_end
+slide2_text_begin
+showing little emotion towards anything
+slide2_text_end
+word_finish
+word_start
+word_begin
+piety (noun)
+word_end
+media_begin
+../media/image234.jpeg
+media_end
+slide1_text_begin
+filial piety – devotion to parents
+slide1_text_end
+slide2_text_begin
+the quality of being religious or devotional
+slide2_text_end
+word_finish
+word_start
+word_begin
+pine (verb)
+word_end
+media_begin
+../media/image235.jpeg
+media_end
+slide1_text_begin
+no longer pine for mango season
+slide1_text_end
+slide2_text_begin
+long for something or someone
+slide2_text_end
+word_finish
+word_start
+word_begin
+pithy (adj)
+word_end
+media_begin
+../media/image236.jpeg
+media_end
+slide1_text_begin
+pithy sayings
+slide1_text_end
+slide2_text_begin
+concise and full of meaning
+slide2_text_end
+word_finish
+word_start
+word_begin
+placate (verb)
+word_end
+media_begin
+../media/image237.jpeg
+media_end
+slide1_text_begin
+brother trying to placate his sister
+slide1_text_end
+slide2_text_begin
+make someone less angry by giving something
+slide2_text_end
+word_finish
+word_start
+word_begin
+platitude (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+plat- : flatflat comments eg: she began uttering liberal platidtudes
+slide1_text_end
+slide2_text_begin
+remark or statement with moral content that is used too often to be interesting
+slide2_text_end
+word_finish
+word_start
+word_begin
+plummet (verb)
+word_end
+media_begin
+../media/image238.jpeg
+media_end
+slide1_text_begin
+the stocks plummeted due to Brexit
+slide1_text_end
+slide2_text_begin
+to drop down sharply at high speed
+slide2_text_end
+word_finish
+word_start
+word_begin
+portend (verb)
+word_end
+media_begin
+../media/image239.jpeg
+media_end
+slide1_text_begin
+dark clouds portend rain
+slide1_text_end
+slide2_text_begin
+show a sign or warning that something calamitous is likely to happen
+slide2_text_end
+word_finish
+word_start
+word_begin
+posterity (noun)
+word_end
+media_begin
+../media/image240.jpeg
+media_end
+slide1_text_begin
+preserve forests for our posterity
+slide1_text_end
+slide2_text_begin
+all future generations of people
+slide2_text_end
+word_finish
+word_start
+word_begin
+precursor (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+pride is a precursor to one’s fall
+slide1_text_end
+slide2_text_begin
+something that comes or happens before something else
+slide2_text_end
+word_finish
+word_start
+word_begin
+probity (noun)
+word_end
+media_begin
+../media/image241.jpeg
+media_end
+slide1_text_begin
+he gained reputation for probity
+slide1_text_end
+slide2_text_begin
+the quality of having strong moral principles
+slide2_text_end
+word_finish
+word_start
+word_begin
+propitiate (verb)
+word_end
+media_begin
+../media/image242.jpeg
+media_end
+slide1_text_begin
+brother propitiating his sister
+slide1_text_end
+slide2_text_begin
+make peace or regain favor of someone by giving something that pleases them
+slide2_text_end
+word_finish
+word_start
+word_begin
+propriety (noun)
+word_end
+media_begin
+../media/image243.jpeg
+media_end
+slide1_text_begin
+they behave with utmost propriety 
+slide1_text_end
+slide2_text_begin
+correct and appropriate behavior
+slide2_text_end
+word_finish
+word_start
+word_begin
+proscribe (verb)
+word_end
+media_begin
+../media/image244.jpeg
+media_end
+slide1_text_begin
+smoking is proscribed
+slide1_text_end
+slide2_text_begin
+to forbid or condemn (especially by law)
+slide2_text_end
+word_finish
+word_start
+word_begin
+precarious (adj)
+word_end
+media_begin
+../media/image245.jpeg
+media_end
+slide1_text_begin
+precarious situation
+slide1_text_end
+slide2_text_begin
+not securely in position; dangerously likely to fall or collapse
+slide2_text_end
+word_finish
+word_start
+word_begin
+precept (noun)
+word_end
+media_begin
+../media/image246.jpeg
+media_end
+slide1_text_begin
+precept of a successful life
+slide1_text_end
+slide2_text_begin
+a general rule or direction
+slide2_text_end
+word_finish
+word_start
+word_begin
+prelate (noun)
+word_end
+media_begin
+../media/image247.jpeg
+media_end
+slide1_text_begin
+roman catholic prelate
+slide1_text_end
+slide2_text_begin
+high-ranking member of a community(usually religious)
+slide2_text_end
+word_finish
+word_start
+word_begin
+presumptuous (adj)
+word_end
+media_begin
+../media/image248.jpeg
+media_end
+slide1_text_begin
+presumptuous man walks off the cliff
+slide1_text_end
+slide2_text_begin
+going excessively forward without observing the limits of what is appropriate
+slide2_text_end
+word_finish
+word_start
+word_begin
+pretext (noun)
+word_end
+media_begin
+../media/image249.jpeg
+media_end
+slide1_text_begin
+You are over qualified for this job.Manager’s pretext for rejecting the guy.
+slide1_text_end
+slide2_text_begin
+weak reason for justifying something, which is not the real reason.
+slide2_text_end
+word_finish
+word_start
+word_begin
+prevaricate (verb)
+word_end
+media_begin
+../media/image250.jpeg
+media_end
+slide1_text_begin
+he seemed to prevaricate when asked about personal life
+slide1_text_end
+slide2_text_begin
+be deliberately ambiguous to mislead or withhold information
+slide2_text_end
+word_finish
+word_start
+word_begin
+priggish (adj)
+word_end
+media_begin
+../media/image251.jpeg
+media_end
+slide1_text_begin
+priggish business woman
+slide1_text_end
+slide2_text_begin
+overly proper and self-righteous
+slide2_text_end
+word_finish
+word_start
+word_begin
+prodigal (adj)
+word_end
+media_begin
+../media/image252.jpeg
+media_end
+slide1_text_begin
+prodigal habits of rich kids
+slide1_text_end
+slide2_text_begin
+spending money and resources recklessly and wastefully
+slide2_text_end
+word_finish
+word_start
+word_begin
+protracted (adj)
+word_end
+media_begin
+../media/image253.jpeg
+media_end
+slide1_text_begin
+protracted struggle of the working class
+slide1_text_end
+slide2_text_begin
+lasting for a long time than expected
+slide2_text_end
+word_finish
+word_start
+word_begin
+purport (verb)
+word_end
+media_begin
+../media/image254.jpeg
+media_end
+slide1_text_begin
+we could purportedly live in mars within 5 years
+slide1_text_end
+slide2_text_begin
+appear to claim or say something which is false
+slide2_text_end
+word_finish
+word_start
+word_begin
+qualm (noun)
+word_end
+media_begin
+../media/image255.png
+media_end
+slide1_text_begin
+boss’ qualm about scolding his employee
+slide1_text_end
+slide2_text_begin
+feeling of uneasiness with a sense that what you are doing is wrong
+slide2_text_end
+word_finish
+word_start
+word_begin
+quibble (verb)
+word_end
+media_begin
+../media/image256.jpeg
+media_end
+slide1_text_begin
+brothers quibbling
+slide1_text_end
+slide2_text_begin
+indulge in a fight over silly matters
+slide2_text_end
+word_finish
+word_start
+word_begin
+rarefied (adj)
+word_end
+media_begin
+../media/image257.jpeg
+media_end
+slide1_text_begin
+rarefied spacex mission
+slide1_text_end
+slide2_text_begin
+elevated in nature and style
+slide2_text_end
+word_finish
+word_start
+word_begin
+recalcitrant (adj)
+word_end
+media_begin
+../media/image258.jpeg
+media_end
+slide1_text_begin
+recalcitrant dog not obeying to master
+slide1_text_end
+slide2_text_begin
+stubbornly resistant to authority or control
+slide2_text_end
+word_finish
+word_start
+word_begin
+recant (verb)
+word_end
+media_begin
+../media/image259.jpeg
+media_end
+slide1_text_begin
+kind of re-chant – say again
+slide1_text_end
+slide2_text_begin
+deny a formally believed or recently expressed statement , usually under pressure.
+slide2_text_end
+word_finish
+word_start
+word_begin
+recluse (noun)
+word_end
+media_begin
+../media/image260.jpeg
+media_end
+slide1_text_begin
+Men turn recluses when thinking about future 
+slide1_text_end
+slide2_text_begin
+who tends to avoid other people
+slide2_text_end
+word_finish
+word_start
+word_begin
+recondite (adj)
+word_end
+media_begin
+../media/image261.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge
+slide2_text_end
+word_finish
+word_start
+word_begin
+reel (verb)
+word_end
+media_begin
+../media/image262.jpeg
+media_end
+slide1_text_begin
+the punch sent him reeling into the wall
+slide1_text_end
+slide2_text_begin
+stumble or lose one’s balance
+slide2_text_end
+word_finish
+word_start
+word_begin
+refractory (adj)
+word_end
+media_begin
+../media/image258.jpeg
+media_end
+slide1_text_begin
+refractory dog
+slide1_text_end
+slide2_text_begin
+he thinks he is irrefutable
+slide2_text_end
+word_finish
+word_start
+word_begin
+refute (verb)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+prove somebody or something wrong
+slide1_text_end
+slide2_text_begin
+stubborn and resistant to something
+slide2_text_end
+word_finish
+word_start
+word_begin
+rein in (verb)
+word_end
+media_begin
+../media/image264.jpeg
+media_end
+slide1_text_begin
+rein(n) : strap used to control or stop horse. rider can rein in his horse
+slide1_text_end
+slide2_text_begin
+curb or restrict something
+slide2_text_end
+word_finish
+word_start
+word_begin
+remiss (adj)
+word_end
+media_begin
+../media/image265.jpeg
+media_end
+slide1_text_begin
+remiss driving
+slide1_text_end
+slide2_text_begin
+negligent ; lacking care or attention to duty
+slide2_text_end
+word_finish
+word_start
+word_begin
+replete (adj)
+word_end
+media_begin
+../media/image266.jpeg
+media_end
+slide1_text_begin
+this movie is replete with action scenes
+slide1_text_end
+slide2_text_begin
+filled or well-supplied with something
+slide2_text_end
+word_finish
+word_start
+word_begin
+reprieve (verb)
+word_end
+media_begin
+../media/image267.jpeg
+media_end
+slide1_text_begin
+the prisoners were reprieved of death sentence
+slide1_text_end
+slide2_text_begin
+relief from something
+slide2_text_end
+word_finish
+word_start
+word_begin
+reproach (verb)
+word_end
+media_begin
+../media/image268.gif
+media_end
+slide1_text_begin
+Grand mother’s reproachful look
+slide1_text_end
+slide2_text_begin
+to express disapproval and disappointment over one’s actions
+slide2_text_end
+word_finish
+word_start
+word_begin
+rescind (verb)
+word_end
+media_begin
+../media/image269.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+officially cancel or revoke something(usually law or agreement)
+slide2_text_end
+word_finish
+word_start
+word_begin
+resolute (adj)
+word_end
+media_begin
+../media/image270.jpeg
+media_end
+slide1_text_begin
+she was resolute in her attempts
+slide1_text_end
+slide2_text_begin
+determined
+slide2_text_end
+word_finish
+word_start
+word_begin
+reticent (adj)
+word_end
+media_begin
+../media/image271.gif
+media_end
+slide1_text_begin
+he was reticent about his personal affairs
+slide1_text_end
+slide2_text_begin
+not revealing one’s thoughts feelings readily
+slide2_text_end
+word_finish
+word_start
+word_begin
+retrograde (adj)
+word_end
+media_begin
+../media/image272.jpeg
+media_end
+slide1_text_begin
+retro - backwardsmercury’s retrograde motion
+slide1_text_end
+slide2_text_begin
+moving backwards
+slide2_text_end
+word_finish
+word_start
+word_begin
+reverent (adj)
+word_end
+media_begin
+../media/image273.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+showing great respect or worship for someone
+slide2_text_end
+word_finish
+word_start
+word_begin
+reverie (noun)
+word_end
+media_begin
+../media/image274.jpeg
+media_end
+slide1_text_begin
+having a reverie
+slide1_text_end
+slide2_text_begin
+daydream
+slide2_text_end
+word_finish
+word_start
+word_begin
+revile (verb)
+word_end
+media_begin
+../media/image275.jpeg
+media_end
+slide1_text_begin
+spam is widely reviled
+slide1_text_end
+slide2_text_begin
+rhapsodic about his job
+slide2_text_end
+word_finish
+word_start
+word_begin
+rhapsody (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+enthusiastic expression of a feeling or emotion
+slide1_text_end
+slide2_text_begin
+his rhetoric won in the election
+slide2_text_end
+word_finish
+word_start
+word_begin
+rhetoric (noun)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+the art of persuasive writing or speaking
+slide1_text_end
+slide2_text_begin
+ris – laughrisible incident
+slide2_text_end
+word_finish
+word_start
+word_begin
+risible (adj)
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+provoking laughter
+slide1_text_end
+slide2_text_begin
+hate or criticize harshly
+slide2_text_end
+word_finish
+word_start
+word_begin
+sacrosanct (adj)
+word_end
+media_begin
+../media/image279.jpeg
+media_end
+slide1_text_begin
+sacrosanct painting
+slide1_text_end
+slide2_text_begin
+sacred; too special to be interrupted
+slide2_text_end
+word_finish
+word_start
+word_begin
+salubrious (adj)
+word_end
+media_begin
+../media/image280.jpeg
+media_end
+slide1_text_begin
+salu - health
+slide1_text_end
+slide2_text_begin
+healthy or promoting health
+slide2_text_end
+word_finish
+word_start
+word_begin
+sanguinary (adj)
+word_end
+media_begin
+../media/image281.jpeg
+media_end
+slide1_text_begin
+sanguin – bloodvampire movies are sanguinary
+slide1_text_end
+slide2_text_begin
+involving lot of blood
+slide2_text_end
+word_finish
+word_start
+word_begin
+sanguine (adj)
+word_end
+media_begin
+../media/image282.jpeg
+media_end
+slide1_text_begin
+be sanguine about your prospects in life
+slide1_text_end
+slide2_text_begin
+optimistic
+slide2_text_end
+word_finish
+word_start
+word_begin
+satiate (adj)
+word_end
+media_begin
+../media/image283.png
+media_end
+slide1_text_begin
+satiate with power and wealth
+slide1_text_end
+slide2_text_begin
+be satisfied to the full
+slide2_text_end
+word_finish
+word_start
+word_begin
+savor (verb)
+word_end
+media_begin
+../media/image284.jpeg
+media_end
+slide1_text_begin
+savor the fragrance
+slide1_text_end
+slide2_text_begin
+taste and enjoy it to the fullest
+slide2_text_end
+word_finish
+word_start
+word_begin
+secede (verb)
+word_end
+media_begin
+../media/image285.jpeg
+media_end
+slide1_text_begin
+Britain secede European union
+slide1_text_end
+slide2_text_begin
+withdraw from an organization or union
+slide2_text_end
+word_finish
+word_start
+word_begin
+scathe (verb)
+word_end
+media_begin
+../media/image286.jpeg
+media_end
+slide1_text_begin
+he came out unscathed from the car crash
+slide1_text_end
+slide2_text_begin
+to harm or injure
+slide2_text_end
+word_finish
+word_start
+word_begin
+scourge (noun)
+word_end
+media_begin
+../media/image287.jpeg
+media_end
+slide1_text_begin
+the scourge of mass unemployment
+slide1_text_end
+slide2_text_begin
+person or thing that causes suffering
+slide2_text_end
+word_finish
+word_start
+word_begin
+scrupulous (adj)
+word_end
+media_begin
+../media/image288.jpeg
+media_end
+slide1_text_begin
+scrupulous effort by the groundman
+slide1_text_end
+slide2_text_begin
+very careful to do things perfectly
+slide2_text_end
+word_finish
+word_start
+word_begin
+serpentine (adj)
+word_end
+media_begin
+../media/image289.jpeg
+media_end
+slide1_text_begin
+serpent – snakeserpentine road
+slide1_text_end
+slide2_text_begin
+snakelike, curved and twisted
+slide2_text_end
+word_finish
+word_start
+word_begin
+shard (noun)
+word_end
+media_begin
+../media/image290.jpeg
+media_end
+slide1_text_begin
+Avoid shards when a glass is broken
+slide1_text_end
+slide2_text_begin
+broken pieces of a metal(usually ceramic or glass)
+slide2_text_end
+word_finish
+word_start
+word_begin
+shirk (verb)
+word_end
+media_begin
+../media/image291.jpeg
+media_end
+slide1_text_begin
+Shirk your house chores by hiring a maid.
+slide1_text_end
+slide2_text_begin
+
+slide2_text_end
+word_finish
+word_start
+word_begin
+shore up (verb)
+word_end
+media_begin
+../media/image292.jpeg
+media_end
+slide1_text_begin
+bridge is shored up with cables
+slide1_text_end
+slide2_text_begin
+support something to keep in right position
+slide2_text_end
+word_finish
+word_start
+word_begin
+sidle (verb)
+word_end
+media_begin
+../media/image293.jpeg
+media_end
+slide1_text_begin
+trying to sidle away from sleeping baby
+slide1_text_end
+slide2_text_begin
+slip or sneak sideways in a silent manner
+slide2_text_end
+word_finish
+word_start
+word_begin
+simper (verb)
+word_end
+media_begin
+../media/image294.jpeg
+media_end
+slide1_text_begin
+simpering smile
+slide1_text_end
+slide2_text_begin
+smile in artificial manner
+slide2_text_end
+word_finish
+word_start
+word_begin
+skeptical (adj)
+word_end
+media_begin
+../media/image295.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+not easily convinced; having doubts and reservations
+slide2_text_end
+word_finish
+word_start
+word_begin
+skinflint (noun)
+word_end
+media_begin
+../media/image296.jpeg
+media_end
+slide1_text_begin
+he is a skinflint. Never spends money.
+slide1_text_end
+slide2_text_begin
+who hates spending money
+slide2_text_end
+word_finish
+word_start
+word_begin
+slaver (verb)
+word_end
+media_begin
+../media/image297.jpeg
+media_end
+slide1_text_begin
+slavering over the delicious burger
+slide1_text_end
+slide2_text_begin
+show mouth watering desire for something
+slide2_text_end
+word_finish
+word_start
+word_begin
+slew (noun)
+word_end
+media_begin
+../media/image298.jpeg
+media_end
+slide1_text_begin
+slew of birds
+slide1_text_end
+slide2_text_begin
+large group of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+sleight (noun)
+word_end
+media_begin
+../media/image299.jpeg
+media_end
+slide1_text_begin
+the magician’s sleight of hand
+slide1_text_end
+slide2_text_begin
+dexterity or skill
+slide2_text_end
+word_finish
+word_start
+word_begin
+sober (adj)
+word_end
+media_begin
+../media/image300.jpeg
+media_end
+slide1_text_begin
+He turned sober after the accident
+slide1_text_end
+slide2_text_begin
+serious and sensible (often refers to stop drinking)
+slide2_text_end
+word_finish
+word_start
+word_begin
+sophomore (noun)
+word_end
+media_begin
+../media/image301.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+second year university student; refers to person who is not completely mature in his community
+slide2_text_end
+word_finish
+word_start
+word_begin
+solicitous (adj)
+word_end
+media_begin
+../media/image302.jpeg
+media_end
+slide1_text_begin
+she is solicitous about her brother
+slide1_text_end
+slide2_text_begin
+attentive, caring and concerned
+slide2_text_end
+word_finish
+word_start
+word_begin
+soporific (adj)
+word_end
+media_begin
+../media/image303.jpeg
+media_end
+slide1_text_begin
+spoor – sleepsoporific lecture
+slide1_text_end
+slide2_text_begin
+tending to induce sleep or drowziness
+slide2_text_end
+word_finish
+word_start
+word_begin
+sordid (adj)
+word_end
+media_begin
+../media/image304.jpeg
+media_end
+slide1_text_begin
+sordid conditions of the overcrowded city
+slide1_text_end
+slide2_text_begin
+dirty or involving immoral actions or motives
+slide2_text_end
+word_finish
+word_start
+word_begin
+sporadic (adj)
+word_end
+media_begin
+../media/image305.gif
+media_end
+slide1_text_begin
+sporadic rains in the countryspor : scattered
+slide1_text_end
+slide2_text_begin
+occurring in irregular intervals or in scattered places
+slide2_text_end
+word_finish
+word_start
+word_begin
+staunch (adj)
+word_end
+media_begin
+../media/image306.jpeg
+media_end
+slide1_text_begin
+Gambia’s president is a staunch arsenal supporter
+slide1_text_end
+slide2_text_begin
+committed
+slide2_text_end
+word_finish
+word_start
+word_begin
+stigma (noun)
+word_end
+media_begin
+../media/image307.jpeg
+media_end
+slide1_text_begin
+bed-wetting is a social stigma for adults
+slide1_text_end
+slide2_text_begin
+a mark of disgrace associated with a particular circumstance, quality, or person.
+slide2_text_end
+word_finish
+word_start
+word_begin
+stint (noun)
+word_end
+media_begin
+../media/image308.jpeg
+media_end
+slide1_text_begin
+Dhoni’s career included a stint as a T.C
+slide1_text_end
+slide2_text_begin
+a person’s definite period of work
+slide2_text_end
+word_finish
+word_start
+word_begin
+stipulate (verb)
+word_end
+media_begin
+../media/image309.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+specify a requirement as part of an agreement
+slide2_text_end
+word_finish
+word_start
+word_begin
+stoic (adj)
+word_end
+media_begin
+../media/image310.jpeg
+media_end
+slide1_text_begin
+stoic expression 
+slide1_text_end
+slide2_text_begin
+emotionless; indifferent in pain and pleasure
+slide2_text_end
+word_finish
+word_start
+word_begin
+stolid (adj)
+word_end
+media_begin
+../media/image311.jpeg
+media_end
+slide1_text_begin
+~ solid 
+slide1_text_end
+slide2_text_begin
+not easily moved mentally or emotionally
+slide2_text_end
+word_finish
+word_start
+word_begin
+strait (noun)
+word_end
+media_begin
+../media/image312.jpeg
+media_end
+slide1_text_begin
+A strait in the ocean
+slide1_text_end
+slide2_text_begin
+situation characterized by a specified degree of trouble or difficulty
+slide2_text_end
+word_finish
+word_start
+word_begin
+striate (adj)
+word_end
+media_begin
+../media/image313.png
+media_end
+slide1_text_begin
+striate cortex
+slide1_text_end
+slide2_text_begin
+marked with stripes(technically referring to the nerve stripes in brain)
+slide2_text_end
+word_finish
+word_start
+word_begin
+strut (verb)
+word_end
+media_begin
+../media/image315.jpeg ../media/image314.gif
+media_end
+slide1_text_begin
+strut(n) : erect rigid structurestrutting
+slide1_text_end
+slide2_text_begin
+to walk with stiff erect with pride and a little arrogance
+slide2_text_end
+word_finish
+word_start
+word_begin
+stultify (verb)
+word_end
+media_begin
+../media/image316.jpeg
+media_end
+slide1_text_begin
+teacher stultified the subject with his assignments
+slide1_text_end
+slide2_text_begin
+cause to lose interest in something
+slide2_text_end
+word_finish
+word_start
+word_begin
+subdue (verb)
+word_end
+media_begin
+../media/image317.jpeg
+media_end
+slide1_text_begin
+trying to subdue anger
+slide1_text_end
+slide2_text_begin
+put down or hold back something or someone
+slide2_text_end
+word_finish
+word_start
+word_begin
+subpoena (noun)
+word_end
+media_begin
+../media/image318.jpeg
+media_end
+slide1_text_begin
+he received a subpoena 
+slide1_text_end
+slide2_text_begin
+a note ordering a person to attend court 
+slide2_text_end
+word_finish
+word_start
+word_begin
+substantiate (verb)
+word_end
+media_begin
+../media/image319.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+show something as an evidence/support for something
+slide2_text_end
+word_finish
+word_start
+word_begin
+subvert (verb)
+word_end
+media_begin
+../media/image320.jpeg
+media_end
+slide1_text_begin
+subvert the cliché to stand out
+slide1_text_end
+slide2_text_begin
+criticize or make low of an established system by your words or actions
+slide2_text_end
+word_finish
+word_start
+word_begin
+suffuse (verb)
+word_end
+media_begin
+../media/image321.jpeg
+media_end
+slide1_text_begin
+The sky was suffused with pink color
+slide1_text_end
+slide2_text_begin
+to spread and fill a spacef
+slide2_text_end
+word_finish
+word_start
+word_begin
+sundry (adj)
+word_end
+media_begin
+../media/image322.jpeg
+media_end
+slide1_text_begin
+sundry items on table
+slide1_text_end
+slide2_text_begin
+random collection of unrelated things
+slide2_text_end
+word_finish
+word_start
+word_begin
+supine (adj)
+word_end
+media_begin
+../media/image323.jpeg
+media_end
+slide1_text_begin
+supine sleep position
+slide1_text_end
+slide2_text_begin
+lying face upwards
+slide2_text_end
+word_finish
+word_start
+word_begin
+symbiotic (adj)
+word_end
+media_begin
+../media/image324.jpeg
+media_end
+slide1_text_begin
+symbiotic relationship
+slide1_text_end
+slide2_text_begin
+cooperative ; mutually beneficial
+slide2_text_end
+word_finish
+word_start
+word_begin
+table (verb)
+word_end
+media_begin
+../media/image325.jpeg
+media_end
+slide1_text_begin
+exam is tabled for next week due paper leak
+slide1_text_end
+slide2_text_begin
+postpone
+slide2_text_end
+word_finish
+word_start
+word_begin
+tacit (adj)
+word_end
+media_begin
+../media/image326.png
+media_end
+slide1_text_begin
+taci – wordlessA tacit solution.
+slide1_text_end
+slide2_text_begin
+understood or implied without any explanation
+slide2_text_end
+word_finish
+word_start
+word_begin
+taciturn (adj)
+word_end
+media_begin
+../media/image327.jpeg
+media_end
+slide1_text_begin
+he decided to be taciturn
+slide1_text_end
+slide2_text_begin
+reserved and uncommunicative(person)
+slide2_text_end
+word_finish
+word_start
+word_begin
+tangential (adj)
+word_end
+media_begin
+../media/image328.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+diverging from a previous course 
+slide2_text_end
+word_finish
+word_start
+word_begin
+tenable (adj)
+word_end
+media_begin
+../media/image329.png
+media_end
+slide1_text_begin
+tenable network solutions
+slide1_text_end
+slide2_text_begin
+able to be maintained or defended against attack
+slide2_text_end
+word_finish
+word_start
+word_begin
+tenet (noun)
+word_end
+media_begin
+../media/image330.jpeg
+media_end
+slide1_text_begin
+Non-violence is the central tenet of his faith
+slide1_text_end
+slide2_text_begin
+principle or belief
+slide2_text_end
+word_finish
+word_start
+word_begin
+tenuous (adj)
+word_end
+media_begin
+../media/image331.jpeg
+media_end
+slide1_text_begin
+tenuous link
+slide1_text_end
+slide2_text_begin
+very weak or thin
+slide2_text_end
+word_finish
+word_start
+word_begin
+tractable (adj)
+word_end
+media_begin
+../media/image332.jpeg
+media_end
+slide1_text_begin
+tractable horse listens to his master
+slide1_text_end
+slide2_text_begin
+obedient and easy to manage or influence
+slide2_text_end
+word_finish
+word_start
+word_begin
+transgression (noun)
+word_end
+media_begin
+../media/image333.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+an act that goes against the rule or code of conduct
+slide2_text_end
+word_finish
+word_start
+word_begin
+truculent (adj)
+word_end
+media_begin
+../media/image334.jpeg
+media_end
+slide1_text_begin
+truculent attitude 
+slide1_text_end
+slide2_text_begin
+eager to argue or fight
+slide2_text_end
+word_finish
+word_start
+word_begin
+uncanny (adj)
+word_end
+media_begin
+../media/image335.jpeg
+media_end
+slide1_text_begin
+uncanny resemblance 
+slide1_text_end
+slide2_text_begin
+mysterious in an unsettling way
+slide2_text_end
+word_finish
+word_start
+word_begin
+uncouth (adj)
+word_end
+media_begin
+../media/image336.jpeg
+media_end
+slide1_text_begin
+boorish, uncouth behavior
+slide1_text_end
+slide2_text_begin
+lacking good manners
+slide2_text_end
+word_finish
+word_start
+word_begin
+underpin (verb)
+word_end
+media_begin
+../media/image337.png
+media_end
+slide1_text_begin
+underpin your assumptions to this theory
+slide1_text_end
+slide2_text_begin
+support or justify something
+slide2_text_end
+word_finish
+word_start
+word_begin
+untoward (adj)
+word_end
+media_begin
+../media/image338.jpeg
+media_end
+slide1_text_begin
+police deployed to prevent any untoward incident at the public gathering
+slide1_text_end
+slide2_text_begin
+unexpected and inappropriate 
+slide2_text_end
+word_finish
+word_start
+word_begin
+vacillate (verb)
+word_end
+media_begin
+../media/image339.jpeg
+media_end
+slide1_text_begin
+~ oscillate
+slide1_text_end
+slide2_text_begin
+sway to and fro between different choices
+slide2_text_end
+word_finish
+word_start
+word_begin
+vacuous (adj)
+word_end
+media_begin
+../media/image340.jpeg
+media_end
+slide1_text_begin
+vacuous smile
+slide1_text_end
+slide2_text_begin
+devoid of thought or mindfulness
+slide2_text_end
+word_finish
+word_start
+word_begin
+vaunt (verb)
+word_end
+media_begin
+../media/image341.jpeg
+media_end
+slide1_text_begin
+vaunting his body
+slide1_text_end
+slide2_text_begin
+show off or flaunt and boast about something
+slide2_text_end
+word_finish
+word_start
+word_begin
+veracious (adj)
+word_end
+media_begin
+../media/image342.jpeg
+media_end
+slide1_text_begin
+vera – truthalways take advice from veracious people
+slide1_text_end
+slide2_text_begin
+habitually speaking or representing truth
+slide2_text_end
+word_finish
+word_start
+word_begin
+vernacular (noun)
+word_end
+media_begin
+../media/image343.jpeg
+media_end
+slide1_text_begin
+The book was written in the vernacular
+slide1_text_end
+slide2_text_begin
+language and dialect spoken by common people
+slide2_text_end
+word_finish
+word_start
+word_begin
+vestige (noun)
+word_end
+media_begin
+../media/image344.jpeg
+media_end
+slide1_text_begin
+vestiges of the ancient colonies
+slide1_text_end
+slide2_text_begin
+traces of something that is disappearing
+slide2_text_end
+word_finish
+word_start
+word_begin
+viable (adj)
+word_end
+media_begin
+../media/image345.jpeg
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+capable of working successfully; feasible
+slide2_text_end
+word_finish
+word_start
+word_begin
+vituperative (adj)
+word_end
+media_begin
+../media/image346.jpeg
+media_end
+slide1_text_begin
+vituperative comment
+slide1_text_end
+slide2_text_begin
+bitter, harsh and abusive
+slide2_text_end
+word_finish
+word_start
+word_begin
+volition (noun)
+word_end
+media_begin
+../media/image347.gif
+media_end
+slide1_text_begin
+I entered politics of my own volition
+slide1_text_end
+slide2_text_begin
+doing something voluntarily or on free will
+slide2_text_end
+word_finish
+word_start
+word_begin
+wean (verb)
+word_end
+media_begin
+../media/image348.jpeg
+media_end
+slide1_text_begin
+wean yourself off watching too much TV
+slide1_text_end
+slide2_text_begin
+gradually eliminate something from your life
+slide2_text_end
+word_finish
+word_start
+word_begin
+welter (noun)
+word_end
+media_begin
+../media/image349.jpeg
+media_end
+slide1_text_begin
+welter of clothes
+slide1_text_end
+slide2_text_begin
+a confused mess of something
+slide2_text_end
+word_finish
+word_start
+word_begin
+whimsical (adj)
+word_end
+media_begin
+../media/image350.jpeg
+media_end
+slide1_text_begin
+whimsical couple
+slide1_text_end
+slide2_text_begin
+fanciful; characterized by impulse rather than need
+slide2_text_end
+word_finish
+word_start
+word_begin
+windfall (noun)
+word_end
+media_begin
+../media/image351.png
+media_end
+slide1_text_begin
+apple was the windfall for newton
+slide1_text_end
+slide2_text_begin
+crazy bit of unexpected fortune
+slide2_text_end
+word_finish
+word_start
+word_begin
+wizened (adj)
+word_end
+media_begin
+../media/image352.jpeg
+media_end
+slide1_text_begin
+wizened old woman
+slide1_text_end
+slide2_text_begin
+shriveled and wrinkled with age
+slide2_text_end
+word_finish
+word_start
+word_begin
+
+word_end
+media_begin
+
+media_end
+slide1_text_begin
+
+slide1_text_end
+slide2_text_begin
+
+slide2_text_end
+word_finish

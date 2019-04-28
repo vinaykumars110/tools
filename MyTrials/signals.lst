@@ -1,0 +1,11 @@
+ram_clk
+hcmdin_cmd_din[63:0]
+hcmdin_CmdPar_din[127:0]
+num_params_to_load_nxt[1:0]
+hcmdin_CmdPar_push
+hcmdin_cmd_push
+ext_hcmdout_cmd_dout[63:0]
+ext_hcmdout_CmdPar_dout[127:0]
+ext_hcmdout_cmd_valid
+ext_hcmdout_CmdPar_pop
+ext_hcmd_cmd_pop
