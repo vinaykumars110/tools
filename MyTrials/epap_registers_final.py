@@ -346,7 +346,7 @@ for cmd in hco_cmds:
     print("        " + "default" + " " * (flen - len('default')) + "  : temp = (0);")
 print('      endcase')
 print('    end // STS mode')
-print("    return ((temp>128*3) ? 4 : (temp>128*2) ? 3 : (temp>128) ? 2 : temp ? 1 : 0);")
+print("    return ((temp>128*3) ? 4 : (temp>128*2) ? 3 : (temp>128) ? 2 : (temp>0) ? 1 : 0);")
 print('  endfunction // hcmdout_num_params')
 print('')
 
@@ -376,7 +376,7 @@ for cmd in hci_cmds:
     print("        " + "default" + " " * (flen - len('default')) + "  : temp = (0);")
 print('      endcase')
 print('    end // STS mode')
-print("    return ((temp>128*3) ? 4 : (temp>128*2) ? 3 : (temp>128) ? 2 : temp ? 1 : 0);")
+print("    return ((temp>128*3) ? 4 : (temp>128*2) ? 3 : (temp>128) ? 2 : (temp>0) ? 1 : 0);")
 print('  endfunction // hcmdin_num_params')
 print('')
 
