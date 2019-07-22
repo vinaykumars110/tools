@@ -4,7 +4,7 @@ import pprint
 import sys
 
 #ifile = sys.argv[1]
-workbook = xlrd.open_workbook('ePAP_DWC_usb_address_map1.xlsx')
+workbook = xlrd.open_workbook('ePAP_DWC_usb_address_map4.xlsx')
 #workbook = xlrd.open_workbook(ifile)
 
 
@@ -434,11 +434,11 @@ for reg in csr_regs:
 
 regs=''
 rev_csr_regs = list(reversed(csr_regs))
-print("  wire [31*" + str(len(csr_regs)) + "-1:0] csr_rdata = " + rev_csr_regs[0]['reg_name'] + "_rdata,")
+#print("  wire [31*" + str(len(csr_regs)) + "-1:0] csr_rdata = " + rev_csr_regs[0]['reg_name'] + "_rdata,")
+print("  assign csr_rdata = {")
 for reg in rev_csr_regs:
     regs += reg['reg_name'] + '_rdata, '
-    if reg != rev_csr_regs[0]:
-        print("                                                       " +  reg['reg_name'] + "_rdata,")
+    print("                      /*"+reg['offset']+"*/  " +  reg['reg_name'] + "_rdata,")
 
 
 
